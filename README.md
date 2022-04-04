@@ -1,6 +1,6 @@
 # PoC: Anonymous Credentials Verification Smart Contract
 This proof-of-concept implementation provides a Solidity smart contract for on-chain anonymous credentails verification.
-To this end, we ported parts of [Hyperledger Ursa](https://github.com/hyperledger/ursa) to Python (see [tgalal/ursa_indy_port](https://github.com/tgalal/ursa_indy_port/tree/master/data/tests)) and Solidity.
+To this end, we ported parts of [Hyperledger Ursa](https://github.com/hyperledger/ursa) to Python (see [tgalal/ursa_indy_port](https://github.com/tgalal/ursa_indy_port)) and Solidity.
 For more details, see our paper (link: TBA).
 
 ## Truffle Suite Test Case
